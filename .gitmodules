@@ -4,3 +4,6 @@
 [submodule "qtile-nord"]
 	path = qtile-nord
 	url = https://github.com/amonetlol/qtile-nord
+[submodule "qtile-ubuntu"]
+	path = qtile-ubuntu
+	url = https://github.com/amonetlol/qtile-ubuntu
