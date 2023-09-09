@@ -1,0 +1,15 @@
+configuration {
+    show-icons: true;
+    font: "JetBrainsMono Nerd Font 10";
+    icon-theme: "Gruvbox-Material-Dark";
+    drun-display-format: "{name}";
+
+    display-ssh:    "󰣀 ssh:";
+    display-run:    "󱓞 run:";
+    display-drun:   "󰵆 Apps:";
+    display-window: "󱂬 window:";
+    display-combi:  "󰕘 combi:";
+    display-filebrowser: "󰉋 filebrowser:";
+}
+
+@theme "style"
