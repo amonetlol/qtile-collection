@@ -8,3 +8,5 @@
 ![Preview](https://raw.githubusercontent.com/amonetlol/qtile-yt/f2fd4d289ef448c70760d5dca76d007c6d0d3653/preview/preview.png)
 **Qtile-Ubuntu**
 ![Preview](https://raw.githubusercontent.com/amonetlol/qtile-ubuntu/main/preview/qtile-ubuntu.png)
+**Qtile-Dracula-Rice**
+ADD Preview
