@@ -27,7 +27,7 @@ font:
     family: JetBrainsMono Nerd Font
     style: SemiBold Italic
     
-  size: 10
+  size: 15
 
 cursor:
   style:
@@ -37,4 +37,10 @@ cursor:
   unfocused_hollow: false
 
 import:
-  - ~/.config/alacritty/dracula.yml
+  # - ~/.config/alacritty/dracula.yml
+  # - ~/.config/alacritty/everforest.yml
+  # - ~/.config/alacritty/rosepine.yml
+  - ~/.config/alacritty/catppuccin-mocha.yml
+#  - ~/.config/alacritty/catppuccin-macchiato.yml
+#  - ~/.config/alacritty/catppuccin-frappe.yml
+#  - ~/.config/alacritty/catppuccin-latte.yml
